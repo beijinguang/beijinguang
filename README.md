@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:06b6d4&height=230&section=header&text=BeijingGuang&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="BeijingGuang" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:06b6d4&height=230&section=header&text=BeijinGuang&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="BeijinGuang" width="100%" />
 
-<h1>Hi, I'm BeijingGuang 👋</h1>
+<h1>Hi, I'm BeijinGuang 👋</h1>
 
 <p>
   <strong>把好奇心变成作品，把想法变成现实。</strong><br />
