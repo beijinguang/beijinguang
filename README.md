@@ -57,8 +57,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=beijinguang&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=2563eb&icon_color=06b6d4" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=beijinguang&layout=compact&hide_border=true&theme=transparent&title_color=2563eb" alt="Top languages" />
+<a href="https://github.com/beijinguang?tab=followers"><img src="https://img.shields.io/github/followers/beijinguang?style=for-the-badge&label=Followers&color=2563eb" alt="Followers" /></a>
+<a href="https://github.com/beijinguang?tab=repositories"><img src="https://img.shields.io/github/stars/beijinguang?style=for-the-badge&label=Stars&color=f59e0b" alt="Stars" /></a>
+<a href="https://github.com/beijinguang?tab=repositories"><img src="https://img.shields.io/github/repos/beijinguang?style=for-the-badge&label=Public%20Repos&color=06b6d4" alt="Public repositories" /></a>
+<a href="https://github.com/beijinguang/beijinguang/commits/main"><img src="https://img.shields.io/github/last-commit/beijinguang/beijinguang?style=for-the-badge&label=Last%20Update&color=7c3aed" alt="Last update" /></a>
 
 </div>
 
