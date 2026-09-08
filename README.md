@@ -57,8 +57,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=beijinguang&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=2563eb&icon_color=06b6d4" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beijinguang&layout=compact&hide_border=true&theme=transparent&title_color=2563eb" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=beijinguang&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=2563eb&icon_color=06b6d4" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=beijinguang&layout=compact&hide_border=true&theme=transparent&title_color=2563eb" alt="Top languages" />
 
 </div>
 
