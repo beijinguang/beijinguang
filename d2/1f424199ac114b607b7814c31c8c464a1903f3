@@ -1,0 +1,19 @@
+README.md
+  s_18a61fb74106c5::t_253084df5243d5 60-63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "d21f424199ac114b607b7814c31c8c464a1903f3",
+  "prompts": {},
+  "sessions": {
+    "s_18a61fb74106c5": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a07fe6-5136-7162-8935-321397a9a385",
+        "model": "GPT-5.6-Luna-joybuilder"
+      },
+      "human_author": "wangjinguang6 <wangjinguang6@jd.com>"
+    }
+  }
+}
