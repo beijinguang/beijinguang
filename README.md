@@ -59,7 +59,7 @@
 
 <a href="https://github.com/beijinguang?tab=followers"><img src="https://img.shields.io/github/followers/beijinguang?style=for-the-badge&label=Followers&color=2563eb" alt="Followers" /></a>
 <a href="https://github.com/beijinguang?tab=repositories"><img src="https://img.shields.io/github/stars/beijinguang?style=for-the-badge&label=Stars&color=f59e0b" alt="Stars" /></a>
-<a href="https://github.com/beijinguang?tab=repositories"><img src="https://img.shields.io/github/repos/beijinguang?style=for-the-badge&label=Public%20Repos&color=06b6d4" alt="Public repositories" /></a>
+<a href="https://github.com/beijinguang/beijinguang/commits/main"><img src="https://img.shields.io/github/commit-activity/y/beijinguang/beijinguang?style=for-the-badge&label=Commits%20This%20Year&color=06b6d4" alt="Commits this year" /></a>
 <a href="https://github.com/beijinguang/beijinguang/commits/main"><img src="https://img.shields.io/github/last-commit/beijinguang/beijinguang?style=for-the-badge&label=Last%20Update&color=7c3aed" alt="Last update" /></a>
 
 </div>
